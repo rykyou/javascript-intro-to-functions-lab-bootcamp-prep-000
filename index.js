@@ -4,7 +4,7 @@ function shout(string) {
 }
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCas()
 }
 
 function logShout(string) {
